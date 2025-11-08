@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on **Open-source web development projects.**
 
-- 🌱 Nowadays I'm learning MERN stack, etc.
+- 🌱 Nowadays I'm learning MERN stack.
 
 - 📫 Contact : **anusaini1312003@gmail.com**
 
