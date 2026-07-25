@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuradha</h1>
 <h3 align="center">
-Full Stack JavaScript Developer | MERN • PostgreSQL • Next.js
+Full Stack Developer | MERN • PostgreSQL • Next.js
 </h3>
 
 <p align="center">
