@@ -41,32 +41,32 @@ Building modern, scalable, and user-friendly web applications while continuously
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css"  height="30" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css"  width="30"  height="30" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrapvite"  height="30" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrapvite"  width="30"  height="30" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"  height="30" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"  width="30"  height="30" />
 </p>
 
 ### Database & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres"  height="30" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" height="38"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres"   width="30" height="30" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle"  width="30" height="38"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" width="30" height="38" />
 </p>
 
 ---
