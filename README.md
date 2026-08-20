@@ -30,7 +30,7 @@ Building modern, scalable, and user-friendly web applications while continuously
 </a>
 
 <a href="https://instagram.com/itzanu0_0" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30"/>
 </a>
 </p>
 
@@ -41,26 +41,26 @@ Building modern, scalable, and user-friendly web applications while continuously
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css"  height="30" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrapvite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrapvite"  height="30" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"  height="30" />
 </p>
 
 ### Database & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" height="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres"  height="30" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" height="38"/>
 </p>
 
 ### Tools
