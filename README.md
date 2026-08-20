@@ -66,7 +66,7 @@ Building modern, scalable, and user-friendly web applications while continuously
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" width="30" height="38" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" height="38" />
 </p>
 
 ---
