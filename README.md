@@ -26,7 +26,7 @@ Building modern, scalable, and user-friendly web applications while continuously
 
 <p align="left">
 <a href="https://www.linkedin.com/in/anu-saini-b867b32b1" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/>
 </a>
 
 <a href="https://instagram.com/itzanu0_0" target="_blank">
